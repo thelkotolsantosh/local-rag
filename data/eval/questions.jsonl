@@ -1,0 +1,4 @@
+{"question": "What does RAG stand for and how does it work?", "expected_source": "sample_rag.md"}
+{"question": "Why do we split documents into overlapping chunks?", "expected_source": "sample_rag.md"}
+{"question": "What is FAISS used for?", "expected_source": "sample_faiss.md"}
+{"question": "Why are embeddings normalized for cosine similarity?", "expected_source": "sample_faiss.md"}

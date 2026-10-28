@@ -1,0 +1,14 @@
+paths:
+  raw_dir: data/raw
+  index_dir: index
+  eval_file: data/eval/questions.jsonl
+
+embedding_model: sentence-transformers/all-MiniLM-L6-v2
+llm_model: TinyLlama/TinyLlama-1.1B-Chat-v1.0
+
+chunk_size: 200
+chunk_overlap: 40
+top_k: 4
+
+max_new_tokens: 256
+temperature: 0.0
